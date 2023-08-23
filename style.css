@@ -1021,6 +1021,12 @@ footer a i{
         font-size: .6rem;
     }
 
+    .liquid-shape{
+        top: 10%;
+        left: -20%;
+        width: 140%;
+    }
+
     .img-about img{
         width: 300px;
     }
