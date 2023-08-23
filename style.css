@@ -1024,8 +1024,14 @@ footer a i{
         width: 300px;
     }
     
-    .info-about,.info-about1,.info-about2{
-        display: none;
+    .info-about{
+        width: 120px;
+        height: 120px;
+    }
+
+    .info-about2{
+        width: 108px;
+        height: 108px;
     }
 
     .img-about p{
