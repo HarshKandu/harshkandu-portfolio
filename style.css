@@ -634,7 +634,7 @@ section{
     outline: none;
     border: none;
     cursor: pointer;
-    font-size: 0.85rem;
+    font-size: .85rem;
     font-weight: 600;
     letter-spacing: .4px;
     margin-left: 1rem;
@@ -652,6 +652,7 @@ section{
 }
 
 .port-box{
+    position: relative;
     border-radius: 15px;
     overflow: hidden;
     background: #292e33;
@@ -678,7 +679,7 @@ section{
 }
 
 .port-content{
-    position: relative;
+    position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
